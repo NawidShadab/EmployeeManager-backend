@@ -3,21 +3,21 @@
   <groupId>com.testspring</groupId>
   <artifactId>employeemanager-app</artifactId>
   <versioning>
-    <lastUpdated>20220808141634</lastUpdated>
+    <lastUpdated>20220809020036</lastUpdated>
     <snapshot>
-      <timestamp>20220808.141634</timestamp>
-      <buildNumber>1</buildNumber>
+      <timestamp>20220809.020036</timestamp>
+      <buildNumber>2</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20220808.141634-1</value>
-        <updated>20220808141634</updated>
+        <value>0.0.1-20220809.020036-2</value>
+        <updated>20220809020036</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20220808.141634-1</value>
-        <updated>20220808141634</updated>
+        <value>0.0.1-20220809.020036-2</value>
+        <updated>20220809020036</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
